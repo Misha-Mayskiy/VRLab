@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d5e60289b2d31694ab36ecbffde813e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cylinderPrefab: {fileID: 2285992078340047891, guid: 39ae7b5a42754934aa6ef5ec0a900507, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
